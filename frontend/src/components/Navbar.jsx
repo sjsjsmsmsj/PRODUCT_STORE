@@ -1,5 +1,5 @@
 import React from 'react'
-import { Container, Flex, Text, Link } from '@chakra-ui/react'
+import { Container, Flex, Text } from '@chakra-ui/react'
 import { HStack, Button } from '@chakra-ui/react'
 import { PlusSquareIcon } from '@chakra-ui/icons'
 import { useColorMode } from '@chakra-ui/react'
@@ -7,6 +7,8 @@ import { IoMoon } from 'react-icons/io5'
 import { LuSun } from 'react-icons/lu'
 import { useColorModeValue } from '@chakra-ui/react'
 import { useProductStore } from '../store/product'
+import { Link } from 'react-router-dom'
+
 
 
 
