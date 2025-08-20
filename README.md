@@ -107,4 +107,7 @@ Mặc định backend chạy port 5000, frontend chạy port 5173.
 
 👉 Bạn có muốn mình viết thêm **ảnh minh họa**
 
-![Demo](https://github.com/sjsjsmsmsj/PRODUCT_STORE/blob/main/show.png)
+<p align="center">
+  <img src="https://github.com/sjsjsmsmsj/PRODUCT_STORE/blob/main/show.png?raw=true" alt="Demo" width="600"/>
+</p>
+
