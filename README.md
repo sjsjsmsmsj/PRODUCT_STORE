@@ -29,6 +29,8 @@ Sử dụng **React + Chakra UI + Zustand** cho frontend và **Express + MongoDB
 - [MongoDB](https://www.mongodb.com/)
 
 ---
+👉 Bạn có muốn mình viết thêm **ảnh minh họa**
+![Demo](https://raw.githubusercontent.com/sjsjsmsmsj/PRODUCT_STORE/main/show.png)
 
 ## 📂 Cấu trúc thư mục
 
@@ -105,9 +107,5 @@ Mặc định backend chạy port 5000, frontend chạy port 5173.
 
 ---
 
-👉 Bạn có muốn mình viết thêm **ảnh minh họa**
 
-<p align="center">
-  <img src="https://github.com/sjsjsmsmsj/PRODUCT_STORE/blob/main/show.png?raw=true" alt="Demo" width="600"/>
-</p>
 
